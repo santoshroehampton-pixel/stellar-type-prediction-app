@@ -38,8 +38,6 @@ def load_artifacts():
 df = load_data()
 model, encoder = load_artifacts()
 
-st.title("🌌 Stellar & Exoplanet Analysis Dashboard")
-
 # ==================================================
 # PAGE CONFIG
 # ==================================================
